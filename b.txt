@@ -1,1 +1,1 @@
-แก้ไข b.txt บรรทัดที่ 1 ใน branch feature2
+แก้ไข b.txt first line branch master
